@@ -7,3 +7,4 @@ _templates
 
 # Compiled contract ABIs and binaries
 build/contracts/*
+.env
