@@ -42,7 +42,7 @@ function deployFIFSRegistrar(deployer, tld) {
 }
 
 module.exports = function(deployer, network) {
-  var tld = 'eth';
+  var tld = 'astro';
 
   if (network === 'dev.fifs') {
     deployFIFSRegistrar(deployer, tld);
