@@ -1,4 +1,4 @@
-# ENS
+# Astro— Autonomous R+D factory platform
 
 [![Build Status](https://travis-ci.org/ensdomains/ens.svg?branch=master)](https://travis-ci.org/ensdomains/ens)
 
