@@ -8,9 +8,5 @@ _templates
 # Compiled contract ABIs and binaries
 build/contracts/*
 .env
-contracts/artifacts/ENS_metadata.json
-contracts/artifacts/ENS.json
-contracts/artifacts/ENSRegistry_metadata.json
-contracts/artifacts/ENSRegistry.json
-contracts/artifacts/FIFSRegistrar_metadata.json
-contracts/artifacts/FIFSRegistrar.json
+contracts/artifacts
+DeploymentDoc.txt
